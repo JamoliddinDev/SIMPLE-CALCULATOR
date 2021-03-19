@@ -1,0 +1,38 @@
+div {
+    margin-top: 100px;
+    border: 1px solid coral;
+    padding: 50px;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 55px;
+}
+
+input {
+    margin-bottom: 40px;
+    font-size: 25px;
+}
+
+button {
+    font-size: 25px;
+}
+
+
+select {
+    margin-bottom: 40px;
+    font-size: 25px;
+}
+
+option {
+    text-align: center;
+    font-size: 25px;
+}
